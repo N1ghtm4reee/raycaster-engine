@@ -48,8 +48,8 @@ Once the engine is running, use the following controls to navigate the game worl
 
 - **W**: Move forward
 - **S**: Move backward
-- **A**: Turn left
-- **D**: Turn right
+- **A**: Move left
+- **D**: Move right
 
 ## Contributing
 
